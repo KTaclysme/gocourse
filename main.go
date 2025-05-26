@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/KTaclysme/TP1/greeter"
+	"github.com/KTaclysme/helloworld/greeter"
 )
 
 func main() {
